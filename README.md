@@ -72,7 +72,7 @@ Change `max_num_hands` to any value up to `2` (or more if supported).
 
 ```
 .
-├── hand_tracking.py
+├── PalmRecognition.py
 └── README.md
 ```
 
